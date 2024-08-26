@@ -22,4 +22,3 @@ Si tienes alguna pregunta, sugerencia o necesitas ayuda, no dudes en contactarme
 *Correo electronico* [alvaro_armando@hotmail.com]
 
 *LinkedIn* [https://www.linkedin.com/in/alvaro-perez-551663100/]
-!(Logo.png)
