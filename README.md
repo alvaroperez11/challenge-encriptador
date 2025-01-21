@@ -19,6 +19,6 @@ Este proyecto es un encriptador de texto que utiliza algoritmos de cifrado para 
 
 Si tienes alguna pregunta, sugerencia o necesitas ayuda, no dudes en contactarme:
 
-*Correo electronico* [alvaro_armando@hotmail.com]
+*Correo electronico* [alvaro_armando@hotmail.es]
 
 *LinkedIn* [https://www.linkedin.com/in/alvaro-perez-551663100/]
